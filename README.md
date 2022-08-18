@@ -11,7 +11,21 @@ https://leave-management-application.herokuapp.com/
 https://youtu.be/FXWDncjgy4U
 
 # Documents
-HLD/LLD/Architecture/Wireframe/DPR - https://drive.google.com/drive/folders/1qkGCevXZA3GA-fF9Ibx_tlJNTd6qtCj3?usp=sharing
+dpr:
+
+https://docs.google.com/presentation/d/1EaRgUIhW5HJVqhFlMny18yPMumw2TE-0/edit?usp=sharing&ouid=103378034267053365048&rtpof=true&sd=true
+
+architecure:
+
+https://drive.google.com/file/d/11zXrc99kwBgSx_5zsRLR6zabDFjPUFEs/view?usp=sharing
+
+lld:
+
+https://docs.google.com/document/d/12VB707wAQNUB2OaSdqoap_qAX8QU2l2t/edit?usp=sharing&ouid=103378034267053365048&rtpof=true&sd=true
+
+hld:
+
+https://docs.google.com/document/d/1BulNSWp3LbLBsUPFZT8M0DuFO-kZdeEf/edit?usp=sharing&ouid=103378034267053365048&rtpof=true&sd=true
 
 # Database
 Cassandra database has been used to store information of employee and for logging
