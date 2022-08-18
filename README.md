@@ -3,10 +3,6 @@
 - With the help of this system admin can add, remove, update employee's information and can approve or reject their leaves
 - Employee's can apply for leave, check leave status and claim money 
 
-![leave manage page](leave-manage-page.png)
-# Application Link
-https://leave-management-application.herokuapp.com/
-
 # Project Demo
 https://youtu.be/FXWDncjgy4U
 
