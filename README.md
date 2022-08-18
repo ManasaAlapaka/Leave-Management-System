@@ -54,4 +54,4 @@ Cassandra database has been used to store information of employee and for loggin
 ```pip install cassandra-driver```
 
 # Contributor
-- Sayan Saha
+- Manasa Alapaka
